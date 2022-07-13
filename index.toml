@@ -1,0 +1,126 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/bossbar-stack.pw.toml"
+hash = "097d9f1e4f85ea548cb2bebacbf79ab1fb498ae7e84c840ec2ed16219d9343ac"
+metafile = true
+
+[[files]]
+file = "mods/chatmath.pw.toml"
+hash = "edbb62e0afc0ff7e76925a9d89d98be4d3fe2cd2d85da9a9e60b5302ea3527c6"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "a567bff99a6dea536cc8fd0d51df141d158cd000008eb2e5f53f20b1e14ee35e"
+metafile = true
+
+[[files]]
+file = "mods/containersearcher.pw.toml"
+hash = "8f721cfcfb03516e74155e660b966a0335abb1d6f6d6947cee3f0fa54646f946"
+metafile = true
+
+[[files]]
+file = "mods/craft-presence.pw.toml"
+hash = "640ee3f033b35657e1cd84031e650805085d408967544ae48e0fccf028d55f46"
+metafile = true
+
+[[files]]
+file = "mods/dashloader.pw.toml"
+hash = "e9ae0492006c9a6bc309bee3658dcc6ebb96d213f74f6285bac4ae26ffc67631"
+metafile = true
+
+[[files]]
+file = "mods/dude-whats-my-gepeuwu.pw.toml"
+hash = "80dde949b64d44db3ab87689d5f0069e2da874cd753f750c87a524b564caa176"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "e5e9cc3b753510f4243bc0fdef37595dffb283a38f9aa368bbba452aa53b811f"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "31b8ee3e8f34273e2989381dde65b8b13e128b6fed0c244f46af62bb47ac354f"
+metafile = true
+
+[[files]]
+file = "mods/forgetmechunk.pw.toml"
+hash = "c576911c18870a36c1337d4f48b708fb620b51f1cb0c6497e5cab661ae07f5a0"
+metafile = true
+
+[[files]]
+file = "mods/hudium.pw.toml"
+hash = "d5430a752b8bf7056508a9403ce8bbfe5efe75944cd90138a89370f6245eac4a"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "b5ecdce430ae016b791f415ef55f6740dcfd422cdb24c2ea78e4ec677cc7921e"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "e5fff11416eb5e50ec9655ce10e3e59838eb966a8d83057752c24f948aae7566"
+metafile = true
+
+[[files]]
+file = "mods/microhud.pw.toml"
+hash = "d33865efca2ab6fa6f48b972cb7d4ba7a2211acfd623347b4c663aa386938c49"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "1ee47f3948bbd6a74fa60780b73cb72dfbd8586c2c1c02b3d2dc2663756e0b1c"
+metafile = true
+
+[[files]]
+file = "mods/no-resource-pack-warnings.pw.toml"
+hash = "5c1dee12414b15eeedd87581ff7f1e4e87cfeec53a1d823bf58b9ca478b6e3a0"
+metafile = true
+
+[[files]]
+file = "mods/precise-armor.pw.toml"
+hash = "97fa308a71752b267301fd1e7e504ffe8ca3933db2fd694436944403838a86c6"
+metafile = true
+
+[[files]]
+file = "mods/purpurclient.pw.toml"
+hash = "de33bbf8096ed18cd8556acfeca380f1450033efe135f602d782f05ba00df0b9"
+metafile = true
+
+[[files]]
+file = "mods/recipe-book-is-pain.pw.toml"
+hash = "f53252cf21fd87e8730210def05a3a34fcee421ceaf1a9a82d7178f7edb9c0a3"
+metafile = true
+
+[[files]]
+file = "mods/screencapper.pw.toml"
+hash = "3c1bb1707badc7dab05c42d99821c5c4bf4fab59c0dbde9a2f2f47b38325ec62"
+metafile = true
+
+[[files]]
+file = "mods/server-info-command.pw.toml"
+hash = "39c57b1c26ae9391892f089bdae87242e3aa45921fa95fe6abe86c1d3f05cd53"
+metafile = true
+
+[[files]]
+file = "mods/skip-transitions.pw.toml"
+hash = "2fa2a85756bccff04668147d557e77394a583604ab2eae258311cff9e0864512"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "4bfa59263c3c2e8b8435eecdd8a944d1345b4b249191ccbadc953f3417b93608"
+metafile = true
+
+[[files]]
+file = "mods/stairautojump.pw.toml"
+hash = "f8726295209f0d675427c1960f5557dfc0f1252440ade693367ad68d6f326a7c"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "be68ef606c339bbb22f2b812db1e5264d9e3335befc0c348d4dc91a8a3e72e17"
+metafile = true

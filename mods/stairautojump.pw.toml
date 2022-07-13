@@ -1,0 +1,13 @@
+name = "StairAutoJump"
+filename = "stairautojump-0.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ff4946adeb57564dc8d199ec740ebbc9175c96c2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3837518
+project-id = 634697

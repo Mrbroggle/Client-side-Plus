@@ -1,0 +1,13 @@
+name = "Server Info command"
+filename = "server-info-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5ba5f624145755944ae0b6f69b90f62eee36c28c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3871739
+project-id = 640942

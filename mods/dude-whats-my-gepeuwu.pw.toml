@@ -1,0 +1,13 @@
+name = "Dude, What's My GePeUWU"
+filename = "dudewhatsmygepeuwu-mc1.19-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8ecb75b40589ff4af55614c2b954c0f87220859f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3871459
+project-id = 643631

@@ -1,0 +1,13 @@
+name = "ContainerSearcher"
+filename = "ContainerSearcher-0.1.5+mc1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2a6287d64d132199a7dd02e1ecfbb616c1483fac"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3828086
+project-id = 632699
