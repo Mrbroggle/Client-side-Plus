@@ -1,0 +1,13 @@
+name = "Precise Armor"
+filename = "precise_armor-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ccb9227afea20512963506f376786a7646b8223e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3872389
+project-id = 643799

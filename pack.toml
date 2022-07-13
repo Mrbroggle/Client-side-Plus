@@ -1,0 +1,13 @@
+name = "ClientSidePlus"
+author = "MrBroggle"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c0add9d64d13da3f93f100b8bcc60790135628e4ca27c883d17e4953d070e271"
+
+[versions]
+minecraft = "1.19"
+quilt = "0.17.1-beta.6"

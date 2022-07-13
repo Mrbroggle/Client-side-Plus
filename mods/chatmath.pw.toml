@@ -1,0 +1,13 @@
+name = "ChatMath"
+filename = "chatmath-0.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5ea6a2e78a2fe716013711f8962cef0fd8b54926"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3836618
+project-id = 632313
