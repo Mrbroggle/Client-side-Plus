@@ -16,11 +16,6 @@ hash = "a567bff99a6dea536cc8fd0d51df141d158cd000008eb2e5f53f20b1e14ee35e"
 metafile = true
 
 [[files]]
-file = "mods/containersearcher.pw.toml"
-hash = "8f721cfcfb03516e74155e660b966a0335abb1d6f6d6947cee3f0fa54646f946"
-metafile = true
-
-[[files]]
 file = "mods/craft-presence.pw.toml"
 hash = "640ee3f033b35657e1cd84031e650805085d408967544ae48e0fccf028d55f46"
 metafile = true
