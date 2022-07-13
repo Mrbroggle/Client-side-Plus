@@ -1,0 +1,13 @@
+name = "microhud"
+filename = "microhud-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b5582bda8efb9e02f24018fe74ce97383f5e8619"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3861985
+project-id = 638552
